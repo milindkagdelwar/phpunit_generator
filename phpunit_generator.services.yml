@@ -1,0 +1,7 @@
+services:
+  generator.twig_engine:
+    class: Drupal\phpunit_generator\Renderer\Engine\TwigEngine
+  generator.renderer.functional:
+    class: Drupal\phpunit_generator\Renderer\FunctionalTestRenderer
+    arguments: ['@request_stack']
+

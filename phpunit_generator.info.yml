@@ -1,0 +1,4 @@
+name: PHP Unit Generator Module
+type: module
+description: Module provide aoutomated way to generate PHPUnit Files.
+core: 8.x
