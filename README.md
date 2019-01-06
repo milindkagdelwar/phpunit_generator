@@ -1,5 +1,4 @@
 # PHPUnit Generator Drupal 8 module.
-======================================================================================
 
 Following drush command can be use to generate PHPUnit test cases.
 
